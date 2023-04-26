@@ -1,1 +1,1 @@
-# VAE_Bio-medical_data_generation
+# Variational Autoencoders(VAE) and Vanilla Generative Adversial Networks(GAN) for synthetic data generation in molecular life sciences 
