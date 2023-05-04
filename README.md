@@ -1,5 +1,6 @@
 # Variational Autoencoders(VAE) and Vanilla Generative Adversial Networks(GAN) for synthetic data generation in molecular life sciences 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)]
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1TY290Wi4kj5ohcSHu_XcSPIovCHu13IO?usp=sharing){:target="_blank"}
+
 
 
 
