@@ -8,6 +8,3 @@ The "R_script_to_generate_data.R" consists of the script which is used to simula
 
 The "VAE_GAN_SYNTH_DATA_GENERATION" file is the code which can be used to reproduce the the results. 
 
-The precision & Recall values of VAE 
-![Box_plot](https://github.com/Sowgandh6/Generative-models-for-synthetic-data-in-molecular-life-sciences/assets/74649012/69dc35bc-5bf6-4cd7-aa64-3ccb3ecc9ce5)
-
