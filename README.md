@@ -13,3 +13,7 @@ The performance of VAE and Vanilla GAN in terms of Precision and Recall:
 
 ![image](https://github.com/Sowgandh6/Generative-models-for-synthetic-data-in-molecular-life-sciences/assets/74649012/c49bf990-64a5-4882-94d9-58a53f9de5e6)
 
+
+## License
+
+This project is licensed under the [MIT License](LICENSE).
