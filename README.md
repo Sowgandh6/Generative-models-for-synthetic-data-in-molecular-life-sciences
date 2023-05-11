@@ -10,7 +10,8 @@ Insufficient data for training machine learning models can result in issues such
 
 - The performance of VAE in terms of Precision and Recall:
 ![image](https://github.com/Sowgandh6/Generative-models-for-synthetic-data-in-molecular-life-sciences/assets/74649012/c379f321-e075-403a-9052-9b1d015ebc0c)
-The performance of Vanilla GAN in terms of Precision and Recall:
+
+-The performance of Vanilla GAN in terms of Precision and Recall:
 ![image](https://github.com/Sowgandh6/Generative-models-for-synthetic-data-in-molecular-life-sciences/assets/74649012/c49bf990-64a5-4882-94d9-58a53f9de5e6)
 
 
